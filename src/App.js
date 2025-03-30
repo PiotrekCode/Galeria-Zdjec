@@ -140,4 +140,3 @@ export default function Galeria() {
     </div>
   );
 }
->>>>>>> 573abb8 (Finish)
