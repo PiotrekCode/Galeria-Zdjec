@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+
 
 
 const KLUCZ_API = "49609126-94ba6cbc926165059a77973b0"; 
