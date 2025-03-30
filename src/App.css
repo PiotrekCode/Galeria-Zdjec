@@ -1,3 +1,4 @@
+
 body {
   background-color: #f1f1f1; 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -10,6 +11,7 @@ body {
   height: 100vh; 
   flex-direction: column;
 }
+
 
 .container {
   background-color: #fff; 
@@ -30,6 +32,7 @@ h2 {
   text-align: center;
   margin-bottom: 30px;
 }
+
 
 button {
   border: 1px solid #ddd; 
@@ -53,6 +56,7 @@ button:hover {
   border-color: #333;
 }
 
+
 img {
   border-radius: 8px;
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
@@ -64,6 +68,7 @@ img:hover {
   transform: scale(1.05); 
   box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2); 
 }
+
 
 .modal {
   position: fixed;
@@ -84,4 +89,5 @@ img:hover {
   object-fit: contain;
   border: 3px solid #fff; 
   border-radius: 8px;
+
 }

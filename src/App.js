@@ -1,5 +1,8 @@
+
 import React, { useState, useEffect } from "react";
-import './App.css'; // Poprawny import pliku CSS
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
 const KLUCZ_API = "49609126-94ba6cbc926165059a77973b0"; 
 const KATEGORIE = ["samochody", "natura", "zwierzęta"];
